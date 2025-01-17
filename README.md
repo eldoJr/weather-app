@@ -1,7 +1,13 @@
 # Weather App Setup Guide
 
 <div align="center">
-  <img alt="Logo" src="https://github.com/eldoJr/eldomacuacua.github.io/blob/main/public/icons/icon-256x256.png" width="100" />
+  <img alt="Logo" src="https://github.com/eldoJr/eldoJr/blob/main/icon-192x192.png" width="100" />
+</div>
+<br>
+
+# Preview
+<div align="center">
+  <img alt="Demo" src="https://github.com/eldoJr/weather-app-reactjs/blob/main/previeww" />
 </div>
 
 Please follow these steps to run your Weather App project without any errors:
