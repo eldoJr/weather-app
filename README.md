@@ -7,7 +7,7 @@
 
 # Preview
 <div align="center">
-  <img alt="Demo" src="https://github.com/eldoJr/weather-app-reactjs/blob/main/previeww" />
+  <img alt="Demo" src="https://github.com/eldoJr/weather-app-reactjs/blob/main/previeww.png" />
 </div>
 
 Please follow these steps to run your Weather App project without any errors:
