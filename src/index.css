@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(#F5EEFF, #DAC3F8);
+  background:rgb(167, 187, 233);
 }
 
 #root {
@@ -27,8 +27,8 @@ body {
   overflow: hidden;
   max-width: 410px;
   border-radius: 10px;
-  background: linear-gradient(#352163, #33143C);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(#3303a3, #3c2f14);
+  box-shadow: 0 10px 20px orange;
 }
 
 .container::after {
